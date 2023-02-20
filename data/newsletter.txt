@@ -1,0 +1,1331 @@
+Week 12:
+Writer: cringemoment
+
+**PC News #12** - *02/06/2023*
+This has been a fairly average week, with some pbs here and there. With the last minute pb by Fragmented (right when I was finishing the newsletter), they have entered the top 10.
+**PBs** :sparkles:
+__Consecutive PCs__
+```
+1. Fragmented  127 PC (Jstris)
+2. Ilovetofu   34 PC (Jstris)
+3. IQ1537      31 PC (Jstris)
+4. huie        30 PC (Jstris)
+```
+
+__10 PC Sprint__
+```
+1. tigers  34.366 (Jstris)
+2. IQ1537  57.802 (Jstris)
+```
+
+__PPB Ultra__
+```
+1. JimothyJimothy 467.00 @ 140
+2. N00Bplz        441.69 @ 175
+```
+
+__Pure PC Blitz__
+```
+1. smolfeesh 1,180,912
+```
+
+
+**Top PC Players of the week** :man_running:
+```
+1. Holifyre        144 PC
+2. Fragmented      127 PC
+3. 13pake          95 PC
+4. JstrisAllClear  60 PC
+5. torchlight      40 PC
+```
+**Top #pc-pics of the week** :eyes:
+This section is just for notes
+[pc-pic-collage-thanks-hosef.png]
+[MakeItHigher.png, then new post]
+
+
+**Top Chokes of the week** :sadge:
+Torchlight survives several no-T 6ths, and then missdrops on O third
+https://discord.com/channels/569728778985537585/569730957536395274/1070799073348681738
+
+Algebruh missdrops an I piece in the most painful way possible
+https://discord.com/channels/569728778985537585/853378199525916732/1071139226130849862
+
+He goes for the repeat choke by misreading order and choking pb\
+https://discord.com/channels/569728778985537585/569730957536395274/1072291814712823808
+
+N00BGamerXD unfortunately chokes on a pure pc ultra run with great pace
+https://discord.com/channels/569728778985537585/569730957536395274/1071030895831699466
+
+
+**PC Research** :test_tube:
+
+JJIS and JJSO 2nd are now 100% save T (like they needed to be)
+https://discord.com/channels/569728778985537585/569730931544293395/1070110336637730886
+https://discord.com/channels/569728778985537585/569730931544293395/1071585898732470333
+
+**Trivia** :nerd:
+Holifyre is an extremely dominant player, but some don’t realize how far the gap is. How far is the gap between #1 and #10?
+**Joke of the week** :laughing:
+You know, PC is usually a pretty serious business, and isn’t funny.
+||But some dupe 7ths make me LOL||
+**Postscript** :star:
+Welcome to February, PC gang! I am very happy to see #newsletter-material being used, making the newsletter easier than ever to write. Continue using it, and you will see your submissions in the newsletter!
+Week 9: [Start Date] - [End Date]
+Writer: Algebruh
+**PC News #9** - *01/18/2023*
+This week we have *multiple* WRs, including Holifyre breaking his PB  . He now owns the first and only 3 300PCs that exist. Cringemoment has broken the PPB Ultra WR for 140p, becoming the first person to pass 470PPB. He does claim this wasn’t deserved, but, hey, he got it! Feesh piles on with the **first ever sub 20s 10PC Sprint!** With both world records broken, admins are fretting about how to make new color roles…
+**PBs** :sparkles:
+__Consecutive PCs__
+```
+1. Holifyre      325 PC (Jstris)
+2. Parfait135    109 PC (Jstris)
+3. Gubber         81 PC (Jstris)
+4. JimothyJimothy 72 PC (Jstris)
+3. IQ1537         28 PC (Jstris)
+4. NOOBplz        25 PC (Jstris)
+5. tigers         21 PC (Jstris)
+6. bobson8        18 PC (Jstris)
+7. BackToMeep     10 PC (Jstris)
+```
+
+__10 PC Sprint__
+```
+1. smolfeesh  19.848s (TETR.IO)
+2. tigers     49.420 (Jstris)
+```
+
+__PPB Ultra__
+```
+1. cringemoment  470.3 @ 140 (WR)
+```
+
+__Pure PC Blitz__
+```
+1. Holifyre  992,025
+```
+
+
+**Top PC Players of the week** :man_running:
+```
+1. Holifyre       325 PC
+2. Zepheniah      101 PC
+3. hummus         87 PC
+4. Gubber         81 PC
+5. TamTheBoss111  71 PC
+```
+
+
+**Top #pc-pics of the week** :eyes:
+This section is just for notes
+[pc-pic-collage-thanks-hosef.png]
+[MakeItHigher.png, then new post]
+
+
+**Top Chokes of the week** :sadge:
+
+Holifyre chokes the second ever Pure PC 1M score
+https://discord.com/channels/569728778985537585/569730957536395274/1064480590830780427
+
+badgoblin matches their PB, dying to TSZ 7th :ono:
+https://discord.com/channels/569728778985537585/569730957536395274/1064736346872229999
+
+
+**PC Research** :test_tube:
+
+Torchlight does SSZ 7th qb again, gets a new set
+https://discord.com/channels/569728778985537585/569730931544293395/1063041102212517928
+
+Knewjade fixes bugs with sfinder, in the percent and path command
+https://discord.com/channels/569728778985537585/569730931544293395/1064141707609907241
+
+**Trivia** :nerd:
+This week’s trivia question:
+```As of now, what is the highest possible average PPB that can be reached on Jstris?```
+Post your answers in #trivia-answers
+
+**Joke of the week** :laughing:
+This week’s joke:
+```What’s a pc player’s favorite drink?```
+||T||
+**Postscript** :star:
+
+As of now, PC Newsletter isn’t doing that well, but we’re getting through it. Hopefully with the addition of Holifyre (and possibly Jim? I don’t know if he’s here to write or just to help manage) we’re actually nearly reaching the group chat limit. We’ll see where this goes. With the amount of world records and personal bests this week, I think everyone should take some time out of their day to try a category you haven’t done in a while. Maybe you’ll do well :oyes:
+
+This has been algebruh, and I wish you all a great (rest of your) week!
+
+
+
+
+Graveyard (Posted news)
+Week 1: Nov 7th - Nov 13th
+Writer: Hosef
+**PC News #1** - *11/14/2022*
+**PBs** ✨
+Consecutive PCs
+13pake 129 PC (Jstris)
+TamTheBoss111 114 PC (Jstris)
+Hosef 61 PC (Jstris)
+cringemoment 36 PC (Jstris)
+badgoblin 20 PC (Jstris)
+mLurker 15 PC (Jstris)
+musiclovin 10 PC (Tetr.io)
+thepikachugamer 10 PC (Tetr.io)
+Minnevich 10 PC (Tetr.io)
+
+
+10 PC Sprint
+musiclovin sub 60 (Tetr.io)
+
+**Top PC players of the week** :man_running:
+Holifyre 177 PC
+Smolfeesh 168 PC
+Smdbs 156 PC
+13pake 129 PC
+TamtheBoss 114 PC
+**Top #PC-Pics of the week** 👀
+PC Pics candidates (someone find the top 5 i need to sleep) (Thank you huye!!)
+https://discord.com/channels/569728778985537585/689739087581544556/1039051732472303687
+https://discord.com/channels/569728778985537585/1032194851757883412/1039250779518812220 (✨)-honorable mention, I didn't wanna put all pakepics in it(this arrangement should be one pic from each player)
+https://discord.com/channels/569728778985537585/689739087581544556/1039545609130098730
+https://discord.com/channels/569728778985537585/689739087581544556/1039967299253321779 ✨
+https://discord.com/channels/569728778985537585/689739087581544556/1040051508189872189 ✨
+https://discord.com/channels/569728778985537585/689739087581544556/1040307564212125768 ✨
+https://discord.com/channels/569728778985537585/689739087581544556/1040692165950586930
+https://discord.com/channels/569728778985537585/689739087581544556/1040835236365344778 ✨
+https://discord.com/channels/569728778985537585/689739087581544556/1041138044763373650
+https://discord.com/channels/569728778985537585/689739087581544556/1041336879963967568 ✨
+
+**Top Chokes of the week** :sadge:
+smolfeesh misdrops his 169th PC :pepehands: https://discord.com/channels/569728778985537585/569730957536395274/1040235199797141625
+cringemoment misdrops their 37th PC, BUT A PB IS A PB!!!! https://discord.com/channels/569728778985537585/569730957536395274/1040042518806532127
+algebruh missed a PCO solve, 2 away from his PB WAAAAAAAAAAA https://discord.com/channels/569728778985537585/569730957536395274/1039980998382858381
+**PC Research** 🧪
+T>S increase % research https://discord.com/channels/569728778985537585/569730931544293395/1040395804650766397
+LJSZ OQB https://discord.com/channels/569728778985537585/569730931544293395/1040980826638274570
+Dupe 7th research https://discord.com/channels/569728778985537585/569730931544293395/1041002071257784330
+
+**Postscript** ⭐
+Hey guys Hosef here!
+
+This is the first issue of the Weekly PC Newspaper, where we discuss various events happening within PC Gang (and we PC PCs). We plan to include the following sections in the Weekly PC Newspaper: PBs, Top PC Runs, Top PC Pics, Top PC Chokes, PC Research and Extra stuff. The Weekly PC Newspaper team currently consists of [number] members, [insert names here].
+
+Hope you enjoyed this week’s PC News, I am now going to go to my dentist again :pepexit:
+Week 2: Nov 14th - Nov 20th
+Writer: 13pake
+**PC News #2** - *11/21/2022*
+
+**PBs** ✨
+__Consecutive PCs__
+```
+1. Fragmented (NitenTeria) 108 PC (Techmino)
+2. j_Ewan      41 PC (Jstris)
+3. mdragon6580 29 PC (Jstris)
+4. Reminder 20 PC (Jstris)
+5. badgoblin     20 PC tied PB 2:39:152 (Jstris)
+6. GodlyPeeta 18 PC (Jstris)
+7. cunk (SmolBepis)   12 PC (Jstris)
+8. turinA1ChiLang (lighthouse) 6 PC (Jstris)
+```
+
+
+
+__10 PC Sprint__
+```
+1. QuickandSmart 26.243s
+2. 13pake 37.067s
+3. Ivan28283 37.429s
+4. j_Ewan 55.987s
+```
+
+
+
+__ Pure PC Ultra/Blitz__
+```
+1. Kvodeth 906,808 Blitz
+2. TamTheBoss111 691,718 Blitz
+3. 13pake 654,126 Blitz
+4. suwapete 57,283 Ultra
+```
+
+
+
+**Top PC players of the week** :man_running:
+1. Fragmented (NitenTeria) 108 PCs
+2. 13pake 92 PCs
+3. smdbs 82 PCs
+4. Zepheniah 68 PCs
+5. Holifyre 62 PCs
+
+
+
+**Top #PC-Pics of the week** 👀
+PC Pics candidates
+https://discord.com/channels/569728778985537585/689739087581544556/1041564820790579261 (jan ewan - antipco LL reduction)
+https://discord.com/channels/569728778985537585/689739087581544556/1041879672507617412 (smolfeesh - cat with IILZZ elephant)
+https://discord.com/channels/569728778985537585/689739087581544556/1041934707702636564 (QAS - IJSO 2nd, T last 💀)
+https://discord.com/channels/569728778985537585/689739087581544556/1041582605168033823 (13pake - wacky LSZO 6th solve)
+https://discord.com/channels/569728778985537585/689739087581544556/1043196701499986023 (algebruh - recovery jaws is bad)
+https://discord.com/channels/569728778985537585/689739087581544556/1043606386501754911 (pete - Cool PCO)
+**Top Chokes of the week** :sadge:
+https://discord.com/channels/569728778985537585/569730957536395274/1041561493914779738 jan Ewan initiated 50 PC race with cringemoment, who will hit 50 PCs first?
+https://discord.com/channels/569728778985537585/569728778985537587/1043301006450106418 le Evergreen Dragon did in fact PB, but did not copy the whole replay string :pepehands:
+
+
+
+**PC Research** 🧪
+Comprehensive braindead 5th (including dupe)
+https://discord.com/channels/569728778985537585/569730931544293395/1043625395532079114
+TT 5th 3p with 1 T
+https://discord.com/channels/569728778985537585/569730931544293395/1043591164001009804
+I 3rd early TLJ setups
+https://discord.com/channels/569728778985537585/569730931544293395/1042566934320914432
+
+
+**Postscript** ⭐
+
+Hey PC Gang, I’m pake, and I bring you the PC Newsletter of all time. In this week’s edition we have quite an assortment of crazy PBs ranging from Fragmented’s (NitenTeria) first ever 100+ run on Techmino, to a low 26s 10PC run by QuickandSmart (#6 on jstris 10PC), as well as Kvodeth breaking the 900k barrier on Blitz (Global #91). On the research side of things, Hsterts made great strides on 5th, generating a comprehensive see-7 minimal set of braindead setups. It’s also worth mentioning that algebruh started an attempt at seeing how far a robot could consecutively PC with see-7 using all the resources we have available.
+
+Speaking of algebruh, he joined the PC Newsletter team this week. We now consist of 4 members: Hosef, huye, 13pake, and algebruh.
+
+If we missed anything please let us know! If you have pure PC research outside of #pc-research make sure to post your findings there so we don’t miss it. Happy PCing everyone! :pepenter:
+
+
+
+**Postpostscript**
+Hosef is so cool ✨
+Hosef so cool indeed!!
+What is a Hosef!!!!
+We <3 Hosef wow!
+Week 3: Nov 21th - Nov 28th
+Writer: Huye
+**PC News #3** - *11/28/2022*
+
+**PBs** :sparkles:
+__Consecutive PCs__
+```
+1. Nilgiri306                  174 PC (Jstris)
+2. QuickandSmart                45 PC (Jstris)
+3. PencylShaevinns              30 PC (Jstris)
+4. Junnoske                     27 PC (Jstris)
+5. luffyy                       15 PC (Jstris)
+6. Sq                           11 PC (TETR.IO)
+6. stephenmogovoo (Stephen12)   10 PC (TETR.IO)
+7. hiyou                        10 PC (TETR.IO)
+```
+
+__10 PC Sprint__
+```
+QuickandSmart  25.851s (Jstris)
+```
+
+__Pure PC Ultra__
+```
+13pake  97,637
+```
+
+__Pure PC Blitz__
+```
+torchlight  434,139
+```
+
+
+**Top PC Players of the week** :man_running:
+```
+1. Holifyre       182 PC
+2. hummus         182 PC
+3. Nilgiri306     174 PC
+4. TamTheBoss111   76 PC
+5. torchlight      65 PC
+```
+
+
+**Top #PC-Pics of the week**
+----------------------------------------------------------------------------------------
+
+Candidate 1 (by sanoy): https://discord.com/channels/569728778985537585/689739087581544556/1044242557078614106  ⭐count: 4
+Candidate 2 (by reminder): https://discord.com/channels/569728778985537585/689739087581544556/1044450305695293532   ⭐ count: 2
+Candidate 3 (tam): https://discord.com/channels/569728778985537585/689739087581544556/1046006653516005396  ⭐ count: 3
+Candidate 4(junnosuke): https://discord.com/channels/569728778985537585/689739087581544556/1046039013779312670 ⭐ count: 1
+Candidate 5 (QaS): https://discord.com/channels/569728778985537585/689739087581544556/1045920752685297734 ⭐ count: 1
+Candidate 6 (torchlight): https://discord.com/channels/569728778985537585/689739087581544556/1044918645974908928 ⭐ count: 1
+
+Other stuff I really like:
+https://discord.com/channels/569728778985537585/689739087581544556/1046033298947854476 (Pete)
+
+https://discord.com/channels/569728778985537585/689739087581544556/1043812122351632385 (Holi)
+
+
+**Top Chokes of the week** :sadge:
+
+Rip Fragmented 7th md, now Fragmented has 1 more 7th failed PC recorded :pepega:
+https://discord.com/channels/569728778985537585/569728778985537587/1044073698757464074
+
+Torchlight died on his potentially 50 PC+ run due to a misdrop :feelsbadman:
+https://discord.com/channels/569728778985537585/569728778985537587/1046397144438931547
+
+Tam choked a 76 PC run due to ||skill issu|| and reading the queue wrongly :sadge:
+https://discord.com/channels/569728778985537585/569728778985537587/1046382497820332082
+
+Our one and only smolfeesh __**CHOKED WR 10 PC SPRINT**__ due to a sad misdrop :pepehands::pepehands::pepehands: (hol up, is it just me or do I see a pattern in these chokes :thinking:)  https://discord.com/channels/569728778985537585/569728778985537587/1046426809778061373
+
+
+**PC Research** :test_tube:
+
+Simple Dupe 6th by John Beak
+https://discord.com/channels/569728778985537585/853373880579522590/1044525822599499848
+
+TJSZ 2nd Save T/O QB
+https://discord.com/channels/569728778985537585/569730931544293395/1046479682134102126
+
+IS-ZO 100% setup by sanoy
+https://discord.com/channels/569728778985537585/569728778985537587/1044935792377729085
+
+J>ZO 6th setup by bladewood :thinking:
+https://discord.com/channels/569728778985537585/569728778985537587/1044173275351224400
+
+Hosef loving LOSZ again ~~(Hosef here, I still hate LOSZ btw)~~
+https://discord.com/channels/569728778985537585/853378199525916732/1045365342999953408
+
+
+**Postscript** :star:
+
+Hello PC gang, I'm huye, and this is the 3rd week of PC gang newsletter :oyes:! This week, we got a pretty big compilation of pbs in the PC mode category, many of which were milestone-reaching ones. While there are less entries on the Ultra, Blitz and Sprint modes, this is well balanced by the numerous chokes by misdrops plaguing the community as usual (rip) (Lady RNG is gonna be kinder next time).
+Not included, but there have also been many cute 😺bektangle😺 runs this week, check them out if you're interested!
+
+Our newsletter team is also getting bigger: starting from this week, pepperoni joined as a helper.
+Therefore, we now consist of 5 members: Hosef, 13pake, huye, algebruh and pepperoni.
+
+That's all for this week's news, thanks everyone for reading and we hope you'll have a great PC week!!!✨
+
+
+**Postpostsctipt**
+Hosef is still very pro and cute
+Huye is proer and cuter
+Week 4: Nov 28th 2022 - Dec 4th 2022
+Writer: Algebruh
+**PC News #4** - *12/05/2022*
+
+Hello! This is Algebruh, here with week number four of the PC Newsletter. This will be a rather short newsletter, but we have to push out *something* that gets us read.
+We saw a large decline in general runs, but a *heavy* uptick in PPB Ultra runs, so I’ve decided to delete the categories with no runs and pick out some of my favorite PPB Ultra runs. ~~Don’t expect this to be recurring.~~
+And, just as I was wrapping up to post this, Holifyre breaks his Invisible PC Mode PB and WR by a whole… two PCs. “Died on 6th as always”, he notes.
+
+
+**PBs** :sparkles:
+__Consecutive PCs__
+```
+1. Holifyre       Invisible 157 PC (Jstris)
+1. pensil         38 PC (Jstris)
+2. mdragon6580    35 PC (Jstris)
+3. Ryanisthebest  17 PC (Jstris)
+4. Ryurai77       5 PC (Jstris)
+```
+
+__10 PC Sprint__
+```
+1. TamTheBoss111  31.958s (Jstris)
+2. Minnevich      58.133s (Tetr.io)
+```
+
+__PPB Ultra__
+With a rather large spike in PPB Ultra runs and zero Pure PC Ultra(nor Pure PC Blitz) runs, I’ve replaced Pure PC Ultra with PPB Ultra. stickmancomic got the WR just last week, and many others have PBd in this timeframe.
+```
+1. stickmancomic        469.09 PPB @ 140P
+2. JimothyJimothy       460.09 PPB @ 140P
+3. John Beak            456.68 PPB @ 140P
+4. cringemoment         443.36 PPB @ 235P
+5. torchlight           428.89 PPB @ 245P
+```
+
+
+
+**Top PC Players of the week** :man_running:
+```
+1. Holifyre    157 PC (invisible)
+2. 400PPB 	   117 PC
+3. 13pake      109 PC
+4. hummus      53 PC
+5. Fragmented  52 PC
+```
+
+__Other Notable Runs__
+```
+smolfeesh 10 PC Sprint 21.682s
+```
+
+
+**Top #pc-pics of the week** :eyes:
+1. https://discord.com/channels/569728778985537585/689739087581544556/1048961930259353710
+2. https://discord.com/channels/569728778985537585/689739087581544556/1048920845818544178
+3. https://discord.com/channels/569728778985537585/689739087581544556/1048720007024087221
+4. https://discord.com/channels/569728778985537585/689739087581544556/1047970213620088923
+5. https://discord.com/channels/569728778985537585/689739087581544556/1047503995154993193
+6. https://discord.com/channels/569728778985537585/689739087581544556/1047061245347495986
+[pc-pic-collage-thanks-hosef.png]
+[MakeItHigher.png, then new post]
+
+
+**Top Chokes of the week** :sadge:
+Minnevich sub 1 minute 10 pc sprint choke: https://discord.com/channels/569728778985537585/569730957536395274/1047605273843474543
+Glinnt 50k pure pc ultra choke: https://discord.com/channels/569728778985537585/569730957536395274/1047000008446197760
+
+
+
+
+**PC Research** :test_tube:
+
+We managed to convince knewjade to add a wanted feature to S-finder (accounting for T-Spin 0 in tspin searches)
+https://discord.com/channels/569728778985537585/569730931544293395/1047627382351216690
+
+
+More concrete research on 7th -> 8th setups, done by yours truly
+https://discord.com/channels/569728778985537585/569730931544293395/1048396619730657280
+https://discord.com/channels/569728778985537585/569730931544293395/1047674817547096064
+
+
+**Postscript** :star:
+This was a rather slow week for research, PBs and other achievements. algebruh has furthered some research on 7th -> 8th setups, but it’s spotty. The newsletter gang has lost a member in Huye, (but they will always be ~~in our hearts~~ reading our newsletter) and gained a member in cringemoment! The member count will stay the same :widepeepohappyL:
+Adding on to Huye’s **Postscript**note about the PC Bot, it is currently on 635 PCs on it’s first run.
+
+
+(It's okay, I am resting in pc now⚰️)
+Huye resting in pc ✊
+Week 5: Dec 5th 2022 - Dec 11th 2022
+Writer: Pake
+**PC News #5** - *12/12/2022*
+
+**PBs** :sparkles:
+__Consecutive PCs__
+```
+1. 13pake                           150 PC (Jstris)
+2. Fragmented (NitenTeria)          103 PC (Jstris)
+3. ilovetofu (le Evergreen Dragon)   25 PC (Jstris)
+4. glinnt                            18 PC (Jstris)
+5. orange_0o (Orange)                10 PC (TETR.IO)
+6. MegaminX                           8 PC (Jstris)
+7. 13pake                            42 PC (Jstris) (Invisible)
+8. torchlight                        40 PC (Jstris) (Invisible)
+9. MDragon                           33 PC (Jstris) (Invisible)
+```
+
+__Pure PC Ultra__
+```
+1. JimothyJimothy 131,681
+2. algebruh        76,328
+3. Holifyre       104,214 (Invisible)
+4. cringemoment    79,122 (Invisible)
+```
+
+
+
+**Top PC Players of the week** :man_running:
+```
+1. Holifyre    205 PC
+2. 13pake      150 PC
+3. hummus      138 PC
+4. Fragmented  103 PC
+5. Zepheniah    59 PC
+```
+
+
+**Top #pc-pics of the week** :eyes:
+https://discord.com/channels/569728778985537585/689739087581544556/1050882431097507861
+
+https://discord.com/channels/569728778985537585/689739087581544556/1050917472796147813
+
+
+
+**Top Chokes of the week** :sadge:
+
+smolfeesh 10 pc sprint sub 20 choke :pepexit:
+https://www.youtube.com/watch?v=4nrbyPV42YM
+
+torchlight 10 pc sprint sub 45 choke :ono:
+https://discord.com/channels/569728778985537585/569728778985537587/1050814689191407677
+
+
+
+**PC Research** :test_tube:
+
+Sanoy has been generating a lot of 5th 4p bcf research daily. :eyes: Check it out in #bot-spam > #5th bcf advent
+https://discord.com/channels/569728778985537585/1044903894658068490
+
+IO 5th 100% method by hummus
+https://discord.com/channels/569728778985537585/569730931544293395/1050954478544748584
+
+knewjade released solution-finder v1.41 which allows you to add your own kick tables :oyes:
+https://discord.com/channels/569728778985537585/853373954332164116/1051442761729069056
+
+
+
+**Postscript** :star:
+Hi PC Gang, it’s pake here. Another relatively chill week at the pc gan has gone by. This week’s craze was jstris ||invisible|| mode apparently with several members PBing in pc mode and ultra. On the research side of things, knewjade released a great quality of life update for sfinder letting you use your own kick tables. Anyways, I’ll keep this short and sweet. Hope you all have a great week and happy PCing! :oyes:
+
+
+Week 6: 12/12/2022 - 12/18/2022
+
+
+Writer: Pepperoni and cringemoment
+**PC News #6** - *[Post Date MM/DD/YYYY]*
+
+**PBs** :sparkles:
+__Consecutive PCs__
+```
+1. pensil          	63 PC (Jstris)
+2. MDragon   		38 PC (Jstris)
+3. eray158	 		10 PC (Jstris)
+4. Psylaris           	8 PC (TETR.IO)
+
+
+
+__10 PC Sprint__
+```
+1. Holifyre      	29.535 (Jstris)
+2. Rithsagea 		47.407 (TETR.IO)
+3.
+```
+
+__Pure PC Ultra__
+```
+1. 13pake         97,907
+2. jstris_username   50,000
+3.
+```
+
+__Pure PC Blitz__
+```
+1. another          1,000,000
+2. tetrio_username    500,000
+3.
+```
+
+**Top PC Players of the week** :man_running:
+```
+1. Holifyre    240 PC
+2. hummus	   182 PC
+3. 13Pake	   71 PC
+4. torchlight  65 PC
+5. pensil	   63 PC
+```
+
+
+**Top #pc-pics of the week** :eyes:
+This section is just for notes
+[pc-pic-collage-thanks-hosef.png]
+[MakeItHigher.png, then new post]
+
+
+**Top Chokes of the week** :sadge:
+
+Some text about the choke :sadge:
+https://discord.com/channels/etc
+
+Choke again
+https://discord.com/channels/etc
+
+
+**PC Research** :test_tube:
+
+Algebruh gets IIJL and OOJL to 100% save t
+https://discord.com/channels/569728778985537585/569730931544293395/1052036045560090725
+
+
+Sanoy 5th bcf advent
+#bot-spam > #5th bcf advent
+
+
+**Postscript** :star:
+
+Week 7:  Dec 19 - Dec 25
+Writer: algebruh
+**PC NEWS #6** - *12/25/2022*
+Hello guys! It’s me, algebruh, writing this on… just before Christmas day. I’m not celebrating anything, because I’m already celebrating Hanukkah! Happy holidays to everyone here, and I hope this week’s newspaper was enough of a gift to you all.
+**PBs** :sparkles:
+__Consecutive PCs__
+```
+1. mdragon6580  54 PC (Jstris)
+2. suwapete     46 PC (Jstris)
+3. QuarPi01     27 PC (Jstris)
+4. tigers       13 PC (Jstris)
+5. Octaviano    7 PC (TETR.IO)
+```
+
+__10 PC Sprint__
+```
+1. Fragmented  30.484s (Jstris)
+2. Minnyavich  Sub 50s (TETR.IO)
+2. Fivoka      55.348s (TETR.IO)
+3.
+```
+
+__Pure PC Ultra__
+```
+1. EclecticPasta  83098
+2. N00BGamerXD    66170
+```
+
+__Pure PC Blitz__
+
+
+**Top PC Players of the week** :man_running:
+```
+1. hummus                  189 PC
+2. 13pake                  83 PC
+3. TamTheBoss111           75 PC
+4. Holifyre                60 PC
+5. torchlight/mdragon6850  54 PC
+```
+
+
+**Top #pc-pics of the week** :eyes:
+This section is just for notes
+[pc-pic-collage-thanks-hosef.png]
+[MakeItHigher.png, then new post]
+
+
+**Top Chokes of the week** :sadge:
+Glinnt finally experiences a death due to a missdrop :(
+https://discord.com/channels/569728778985537585/569730957536395274/1056002274020839507
+N00BGamerXD chokes sub 50
+https://discord.com/channels/569728778985537585/569730957536395274/1055004291552784458
+Tam gets a run that apparently “shouldn’t have gone that far”
+https://discord.com/channels/569728778985537585/569730957536395274/1056174381581209730
+Hummus chokes another 200PC https://discord.com/channels/569728778985537585/689739087581544556/1054860950001418321
+**PC Research** :test_tube:
+BCF Search Results
+https://discord.com/channels/569728778985537585/569730931544293395/1055979413570846770
+JLSO/JLZO fully in konbini
+https://discord.com/channels/569728778985537585/569730931544293395/1055521317182517358
+Algebruh’s doc finishes with a completed OSZ 7th qb :oyes: (when add to #setups )
+https://discord.com/channels/569728778985537585/569730931544293395/1054887835607511060
+TTZ 7th qb
+https://discord.com/channels/569728778985537585/569730931544293395/1054449998089166930
+SFinder’s piece extension now allows for dupes.
+https://discord.com/channels/569728778985537585/569730931544293395/1055680763611336724
+
+**Trivia** :nerd:
+This week’s trivia question:
+```How many setups does it take to get JLSZ to 100% save T?```
+Post your answers in #trivia-answers
+
+**Joke of the week** :laughing:
+This week’s joke:
+```Why does the pc player only steal birds in pairs?```
+||Because he only wants 2 jays||
+**Postscript** :star:
+
+```
+
+
+This is Algebruh, now finishing this on Christmas day. I hope this newsletter is enough of a gift to you all to account for all of your presences here.
+
+
+
+
+```
+
+
+Week 8
+PC News #8 - 01/04/2023
+
+PBs
+Consecutive PCs
+1. Torchlight    88 PC (Jstris)
+2. mdragon6580   62 PC (Jstris)
+3. cringemoment  53 PC (Jstris)
+4. hillo         35 PC (Jstris)
+5. TORINO         8 PC (TETR.IO)
+6. YO_WUZ_UP      8 PC (Jstris)
+
+
+10 PC Sprint
+1. QuickandSmart  24.620 (Jstris)
+
+
+Pure PC Ultra
+1. CheezWhiz    96747
+2. N00BGamerXD  68980
+
+
+Pure PC Blitz
+
+
+Top PC Players of the week
+1. Holifyre      151 PC
+2. smdbs         143 PC
+3. TamTheBoss111  94 PC
+4. Torchlight     88 PC
+5. mdragon6580    62 PC
+
+
+
+Top pc-pics of the week  (edited)
+[9:36 AM]
+
+
+6
+[9:36 AM]
+⠀
+
+⠀
+[9:36 AM]
+Top Chokes of the week
+
+QuickAndSmart’s numerous sub 25 10PC chokes
+https://discord.com/channels/569728778985537585/569730957536395274/1058189591028445264
+
+N00BGamerXD chokes a 75k ultra run, several times
+https://discord.com/channels/569728778985537585/569730957536395274/1059066967132217344
+PC Research
+
+algebruh starts and completes his condensed 7th doc, replacing four.lol entirely
+https://discord.com/channels/569728778985537585/569730931544293395/1058860323332960417
+
+NitenTeria’s 7th doc gets an english translation
+https://discord.com/channels/569728778985537585/569730931544293395/1059156220558196826
+
+Trivia
+This week’s trivia question:
+The original use case for dragon was on 2nd with a slightly different setup. What was its save T chance?
+
+Post your answers in #trivia-answers
+
+Joke of the week
+This week’s joke:
+Why did the pc player rank the British Indian Ocean territory domain extension at number 5?
+
+Because he likes IO 5th
+
+
+Postscript
+
+Hi PC Gang.
+This **Postscript**is brought to you late by Tam. This week there has been a decent amount of research in trying to collate 7th data into easy to read forms notably by algebruh and NitenTeria. There have also been numerous PBs in consecutive PC Mode as mentioned above. We hope you all had a great New Years and may you all reach new heights in 2023!
+
+Happy PCing!
+
+Week 8: 1/04/23 - 1/09/23
+Writer: Algebruh
+**PC News #8** - *[Post Date 1/09/23]*
+Hello! It’s Algebruh, back with another newsletter. I did this one in a VC this time, because I’m incredibly tired. Imagine now owning all of 7th and you *still* have to write this week’s newsletter. We see a lot of PBs for Pure PC, and not much else. Again, I decided to replace PC Blitz with PPB Ultra. I’m also omitting Trivia and **Joke of the week**for lack of time. Sorry, you guys have to be sad now, I guess :(
+**PBs** :sparkles:
+__Consecutive PCs__
+```
+1. Hummus         247 PC (Jstris)
+2. 13pake         176 PC (Jstris)
+3. Zepheniah      117 PC (Jstris)
+4. QuickAndSmart  69 PC (Jstris)
+5. MDragon        65 PC (Jstris)
+6. IQ1537         28 PC (Jstris)
+7. Claramay       10 PC (TETR.IO)
+8. Louiy          10 PC (TETR.IO)
+```
+
+__10 PC Sprint__
+```
+1. Smolfeesh      20.050s (TETR.IO)
+```
+
+__Pure PC Ultra__
+```
+1. 13pake   104,801
+2. jahoooo  54,353
+```
+
+__PPB Ultra__
+```
+1. John Beak        463.93 @ 175p (WR for 175p)
+2. John Beak        459.86 @ 140p
+2. cringemoment     441.03 @ 175p
+3. tigers           428.66 @ 140p
+```
+
+
+
+**Top PC Players of the week** :man_running:
+```
+1. hummus      247 PC
+2. Holifyre    229 PC
+3. 13pake      176 PC
+4. Zepheniah   117 PC
+5. smdbs       112 PC
+```
+
+
+**Top #pc-pics of the week** :eyes:
+This section is just for notes
+[pc-pic-collage-thanks-hosef.png]
+[MakeItHigher.png, then new post]
+
+
+**Top Chokes of the week** :sadge:
+
+Smolfeesh misses sub 20 by THREE FRAMES
+https://discord.com/channels/569728778985537585/569730957536395274/1060445579232161807
+
+Smdbs misses his run to bad 1st (why does every setup hate LOSZ queues?)
+https://discord.com/channels/569728778985537585/569728778985537587/1059552064801345577
+
+
+**PC Research** :test_tube:
+
+Holifyre creates a Korean PC Website
+https://discord.com/channels/569728778985537585/569730931544293395/1061590549263568986
+
+Algebruh now owns all of 7th :oyes:
+https://discord.com/channels/569728778985537585/569730931544293395/1062086901626044516
+
+
+
+**Postscript** :star:
+
+I’m tired, and I think you guys are awesome. Stay hydrated, take care of yourself, take breaks when necessary, and only *sometimes* think about using 1p on 7th.
+
+
+
+Template
+Week [X]: [Start Date] - [End Date]
+Writer: [Writer]
+**PC News #[Issue Number]** - *[Post Date MM/DD/YYYY]*
+
+**PBs** :sparkles:
+__Consecutive PCs__
+```
+1. monospaced_font           101 PC (Jstris)
+2. two_spaces_after_longest   69 PC (Jstris)
+3. perfect_clearer            10 PC (TETR.IO)
+4.
+```
+
+__10 PC Sprint__
+```
+1. very_sprint       59.999s (Jstris)
+2. tetrio_username  110.000s (TETR.IO)
+3.
+```
+
+__Pure PC Ultra__
+```
+1. jstris           100,000
+2. jstris_username   50,000
+3.
+```
+
+__Pure PC Blitz__
+```
+1. another          1,000,000
+2. tetrio_username    500,000
+3.
+```
+
+
+**Top PC Players of the week** :man_running:
+```
+1. top_player_1  120 PC
+2. top_player_2  100 PC
+3. top_player_3   80 PC
+4. top_player_4   60 PC
+5. top_player_5   40 PC
+```
+
+
+**Top #pc-pics of the week** :eyes:
+This section is just for notes
+[pc-pic-collage-thanks-hosef.png]
+[MakeItHigher.png, then new post]
+
+
+**Top Chokes of the week** :sadge:
+
+Some text about the choke :sadge:
+https://discord.com/channels/etc
+
+Choke again
+https://discord.com/channels/etc
+
+
+**PC Research** :test_tube:
+
+Put the best research at the top maybe?
+https://discord.com/channels/etc
+
+More research
+https://discord.com/channels/etc
+
+
+**Postscript** :star:
+
+Hi Gang.
+
+Happy PCing!
+
+PC News #9 - 01/18/2023
+This week we have multiple WRs, including Holifyre breaking his PB  . He now owns the first and only 3 300PCs that exist. Cringemoment has broken the PPB Ultra WR for 140p, becoming the first person to pass 470PPB. He does claim this wasn’t deserved, but, hey, he got it! Feesh piles on with the first ever sub 20s 10PC Sprint! With both world records broken, admins are fretting about how to make new color roles…
+PBs ✨
+Consecutive PCs
+1. Holifyre      325 PC (Jstris)
+2. Parfait135    109 PC (Jstris)
+3. Gubber         81 PC (Jstris)
+4. JimothyJimothy 72 PC (Jstris)
+3. IQ1537         28 PC (Jstris)
+4. NOOBplz        25 PC (Jstris)
+5. tigers         21 PC (Jstris)
+6. bobson8        18 PC (Jstris)
+7. BackToMeep     10 PC (Jstris)
+
+
+10 PC Sprint
+1. smolfeesh  19.848s (TETR.IO)
+2. tigers     49.420 (Jstris)
+
+
+PPB Ultra
+1. cringemoment  470.3 @ 140 (WR)
+
+
+Pure PC Blitz
+1. Holifyre  992,025
+
+
+
+Top PC Players of the week 🏃‍♂️
+1. Holifyre       325 PC
+2. Zepheniah      101 PC
+3. hummus         87 PC
+4. Gubber         81 PC
+5. TamTheBoss111  74 PC
+
+
+
+Top pc-pics of the week 👀
+Image
+Image
+Top Chokes of the week :sadge:
+
+Holifyre chokes the second ever Pure PC 1M score
+https://discord.com/channels/569728778985537585/569730957536395274/1064480590830780427
+
+badgoblin matches their PB, dying to TSZ 7th :ono:
+https://discord.com/channels/569728778985537585/569730957536395274/1064736346872229999
+
+
+PC Research 🧪
+
+Torchlight does SSZ 7th qb again, gets a new set
+https://discord.com/channels/569728778985537585/569730931544293395/1063041102212517928
+
+Knewjade fixes bugs with sfinder, in the percent and path command
+https://discord.com/channels/569728778985537585/569730931544293395/1064141707609907241
+
+Trivia 🤓
+This week’s trivia question:
+As of now, what is the highest possible average PPB that can be reached on Jstris?
+
+Post your answers in trivia-answers
+
+**Joke of the week**😆
+This week’s joke:
+What’s a pc player’s favorite drink?
+
+T
+**Postscript**⭐
+
+As of now, PC Newsletter isn’t doing that well, but we’re getting through it. Hopefully with the addition of Holifyre (and possibly Jim? I don’t know if he’s here to write or just to help manage) we’re actually nearly reaching the group chat limit. We’ll see where this goes. With the amount of world records and personal bests this week, I think everyone should take some time out of their day to try a category you haven’t done in a while. Maybe you’ll do well :oyes:
+
+This has been algebruh, and I wish you all a great (rest of your) week!
+pepperoni — 01/25/2023 7:32 PM
+PC News 10 - 01/25/23
+
+PBs ✨
+Consecutive PCs
+1. badgoblin  26 (Jstris)
+
+
+10 PC Sprint
+
+1. epiewic    29.82 (Jstris)
+
+
+Top PC Players of the week 🏃‍♂️
+
+1. Holifyre    146
+
+2. Hummus      129
+
+3. smolfeesh    95
+
+4. 13pake       67
+
+5. torchlight   40
+
+
+
+
+
+Top pc-pics of the week 👀
+‎
+Image
+‎
+
+
+
+Top Chokes of the week :sadge:
+
+Holifyre pure pc ultra pb choke:
+https://jstris.jezevec10.com/replay/65320663](https://jstris.jezevec10.com/replay/65320663
+
+
+
+
+PC Research 🧪
+
+100% save T is achieved on 9th
+https://discord.com/channels/569728778985537585/569730931544293395/1067235398742462546
+
+
+
+
+Trivia 🤓
+
+What is the little-known 2nd way to get four of the same piece in a solve, other than a dupe 5th going into that same no piece 6th?
+
+Post your answers in trivia-answers
+
+
+
+
+**Joke of the week**😆
+
+This week’s joke:
+
+Why doesn't the pc player touch grass?
+
+
+Because SOIL is a bad 2nd
+
+
+
+
+**Postscript**⭐
+
+Hi pc gang its me pepperoni. The newsletter team has been struggling to find things to add on the newsletter. In the future please post any newsletter worthy material in newsletter-material. This includes but is not limited to, PB’s, chokes, and pc pics. With that being said I hope everyone has a great week :oyes:
+Holifyre — 01/31/2023 12:58 AM
+PC News #11 - 01/30/2023
+
+PBs ✨
+Consecutive PCs
+1. Holifyre   188PC (Jstris, Invisible Skin WR)
+2. MDragon     81PC (Jstris)
+3. Tigers      22PC (Jstris)
+4. Vequisa      5PC (Jstris)
+5. Shinyprsn    5PC (TETR.IO)
+6. ADT-exe      3PC (Jstris)
+
+
+PPB Ultra
+1. N00bpls        462.20 @ 140p
+2. GodlyPeeta     452.64 @ 140p
+3. Algebruh       444.79 @ 140p
+4. Tigers         439.81 @ 140p & 429.58 @ 175p
+
+
+*Algebruh's run occurred on 1/19 but was not included in last week's newsletter. We apologize for this mistake.
+
+Top PC Players of the Week 🏃‍♂️
+Holifyre                 194PC
+13pake                   130PC
+JstrisAllClear           123PC
+Fragmented (NitenTeria)   70PC
+TamTheBoss111             59PC
+
+
+Top pc-pics of the Week 👀
+Image
+Top Chokes of the Week :sadge:
+
+A fatal miss at 23rd PC on what could've been Tigers' first 25+ PC run
+https://discord.com/channels/569728778985537585/569730957536395274/1068117804361994281
+
+PC Research 🧪
+
+Algebruh and Pete establish JLSO/JLZO 2nd 100% Save T methods
+https://discord.com/channels/569728778985537585/569730931544293395/1069003134376095885
+
+**Trivia of the Week** 🤓
+
+4p Legs is a popular BCF setup that has a PC chance of 99.52% on 1st. Out of all the possible 5040 see-7 queues, there are only 24 "fail queues" that result in no solutions. Interestingly, all the 24 fail queues have a commonality, which is that they all contain a subset of 4 pieces from the second bag following the leftover three pieces from the first bag after setup.
+
+Assuming that one has built the left-side 4p Legs (ILZO) on 1st, what are the 4 pieces from the second bag that may result in a fail queue on this scenario?
+*Note: Not all queues having these 4 pieces as the last 4 in the queue are fail queues. Some orders do allow for solutions.
+
+Post your answers in trivia-answers!
+
+**Joke of the week**😆
+
+What is a chef's favorite 7th?
+
+OIL 7th
+**Postscript**⭐
+
+Heyo everyone! This is Holifyre with the eleventh issue of PC newsletter. This past week saw some notable PB's from users of diverse levels, and a new World Record on Jstris Invisible Skin PC Mode.
+
+The PC newsletter team is trying to agree on a specific time and date for a regular delivery of each week's newsletter, as the last couple of them have been published a bit late due to there not being an officially established schedule. We'll announce soon about on what day of the week and at what time (in UTC) the newsletter will be posted every week.
+
+And as always, if you have a post that seems worthy of mention in the newsletter, or if we missed any of your PBs, feel free to post it in the thread newsletter-material in the general channel. We still check individual channels for runs and records but the thread saves us a lot of time and sanity.
+
+We also accept suggestions for what topics to add to the newsletter! You can add those in the same thread newsletter-material also. We are striving weekly to make the newsletter better and better for y'all :oyes:
+
+Happy PC'ing, everyone!
+moment — 02/06/2023 6:25 PM
+Writer: cringemoment
+
+PC News #12 - 02/06/2023
+This has been a fairly average week, with some pbs here and there. With the last minute pb by Fragmented (right when I was finishing the newsletter), they have entered the top 10.
+PBs ✨
+Consecutive PCs
+1. Fragmented  127 PC (Jstris)
+2. Ilovetofu   34 PC (Jstris)
+3. IQ1537      31 PC (Jstris)
+4. huie        30 PC (Jstris)
+
+
+10 PC Sprint
+1. tigers  34.366 (Jstris)
+2. IQ1537  57.802 (Jstris)
+
+
+PPB Ultra
+1. JimothyJimothy 467.00 @ 140
+2. N00Bplz        441.69 @ 175
+
+
+Pure PC Blitz
+1. smolfeesh 1,180,912
+
+
+
+Top PC Players of the week 🏃‍♂️
+1. Holifyre        144 PC
+2. Fragmented      127 PC
+3. 13pake          95 PC
+4. JstrisAllClear  77 PC
+5. torchlight      66 PC
+
+Top pc-pics of the week 👀
+Image
+Top Chokes of the week :sadge:
+Torchlight survives several no-T 6ths, and then missdrops on O third
+https://discord.com/channels/569728778985537585/569730957536395274/1070799073348681738
+
+Algebruh missdrops an I piece in the most painful way possible
+https://discord.com/channels/569728778985537585/853378199525916732/1071139226130849862
+
+He goes for the repeat choke by misreading order and choking pb
+https://discord.com/channels/569728778985537585/569730957536395274/1072291814712823808
+
+N00BGamerXD unfortunately chokes on a pure pc ultra run with great pace
+https://discord.com/channels/569728778985537585/569730957536395274/1071030895831699466
+
+
+PC Research 🧪
+
+JJIS and JJSO 2nd are now 100% save T (like they needed to be)
+https://discord.com/channels/569728778985537585/569730931544293395/1070110336637730886
+https://discord.com/channels/569728778985537585/569730931544293395/1071585898732470333
+
+**Trivia** 🤓
+Holifyre is an extremely dominant player, but some don’t realize how far the gap is. How far is the gap between #1 and #10?
+
+**Joke of the week**😆
+You know, PC is usually a pretty serious business, and isn’t funny.
+||But some dupe 7ths make me LOL||
+
+**Postscript**⭐
+Welcome to February, PC gang! I am very happy to see newsletter-material being used, making the newsletter easier than ever to write. Continue using it, and you will see your submissions in the newsletter!
+Holifyre — 02/13/2023 7:06 PM
+PC News #13 - 2023/02/13
+Happy early Valentine's everyone! Get ready for some looooong read...
+
+PBs ✨
+Consecutive PCs
+1. mww              56PC
+2. jeague           47PC
+3. huye             35PC
+4. flatMap          34PC
+5. GreyLegend4145   32PC
+6. frank_alt        27PC
+7. Ivan28283        26PC
+8. fivoka           22PC
+9. yaypad           10PC
+
+(Jeague, GreyLegend415, and frank_alt's personal records were not included in last week's newletter. We apologize for missing out on them.)
+
+(Several players on this list are not in the PC Gang server. Huge thanks to @torchlight for recognizing and compiling their records.)
+
+Pure PC Ultra
+1. smolfeesh         158,450
+2. N00BGamerXD       90,188
+3. Ivan28283         79,683
+
+PPB Ultra
+1. Algebruh 452.79 PPB @ 140p
+
+Top PC Players of the Week 🏃‍♂️
+1. Holifyre                 223PC
+2. 13pake                   117PC
+3. Fragmented (NitenTeria)  102PC
+4. mdragon6580              78PC
+5T. mww                     56PC
+5T. torchlight              56PC
+
+(mww and torchlight were tied at 56PC, but mww had a faster time.)
+
+Top pc-pics of the Week 👀
+Image
+Top Chokes of the Week :sadge:
+Huye misdrops on 36th PC (Fortunately, it was already a PB run):
+https://discord.com/channels/569728778985537585/569730957536395274/1073350074282823772
+
+NitenTeria's PAINFUL misdrop on PB pace at 103th PC:
+https://discord.com/channels/569728778985537585/569730957536395274/1073186896206905344
+
+Algebruh drops 3PPB from 140p to 141p (449 -> 446):
+https://discord.com/channels/569728778985537585/569730957536395274/1072946440814477444 (Profanity Warning)
+(Fortunately, algebruh managed to get a PPB Ultra PB of 452.79 @ 140p a few days later, as shown above.)
+
+PC Research 🧪
+Verification of JLSZ 2nd 100% + QB setups list:
+https://discord.com/channels/569728778985537585/569730931544293395/1071971699450450003 (Algebruh) + https://discord.com/channels/569728778985537585/569730931544293395/1073287186922872832 (Sanoy)
+
+New 100% T-OLJ 4p on T 3rd found by NitenTeria: https://discord.com/channels/569728778985537585/569728778985537587/1074597777729912883
+
+Holifyre begins the organization of all possible 2Ls:
+https://discord.com/channels/569728778985537585/569730931544293395/1072576224104284160
+
+**Trivia of the Week**🤓
+
+The maximum number of perfect clears one can perform on 40L Sprint Mode is 13. This requires an insane amount of 2L luck and is hence very rare. There are several ways to do this, and below is an example 13PC 40L sequence that has 7 4Ls and 6 2Ls in an alternating fashion.
+4L-2L-4L-2L-4L-2L-4L-2L-4L-2L-4L-2L-4L
+
+On which # of PC (2nd~8th) does a 2L NOT occur in this run?
+
+Post your answers in trivia-answers!
+**Joke of the week**😆
+(Credits to @moment for the joke.)
+
+A local church nearby a river had a fishing contest. After a few rounds, there were only 2 competitors remaining. Now, one guy was huge, standing at a respectable 6’6. The other guy was only 5’2 at best.
+
+After a couple of tense hours, the competitors returned with their fish. The tall guy had a pretty respectable fish, but the other guy’s was massive. It had to be at least two hundred kilograms. The people inside the church were losing their mind! This was the biggest fish anyone had ever seen. It had to be the biggest fish in the world.
+
+One of the altar boys, in his excitement, accidentally dropped a candle he was holding, and the church caught on fire. Everyone ran out, and the smaller guy dropped his prize fish on the ground, leading to the fish being hopelessly trampled by the panicking crowd. Since the fire happened before measuring of the fish, he could not prove that he had the superior fish.
+
+So, small’s fish had the world record, but then the holy fire took it away.
+
+**Postscript**⭐
+Hey everyone! Holifyre here again with the 13th issue of the PC Gang Newsletter. This week was quite an eventful fiasco, with Smolfeesh's monumental collection of ALL achievement-related roles in the server (the last ones being Sub20 10PC sprint and 150K Pure PC Ultra), the first ever 100 100+ PC runs on Jstris by a single user (Holifyre), NitenTeria's student mww covering a lot of ground with a PB of 56PC, and other players getting respectable PBs on Jstris PC mode.
+
+From next week and on, the newsletter will be released at or before 23:59 UTC every Monday. And we're planning to add a new segment to the next newsletter; stay tuned!
+
+And as always, please post any noteworthy replays or posts of yours on newsletter-material if you want them to be featured here. It makes us writers' job a whole lot easier!
+
+Happy PC'ing! :oyes:
