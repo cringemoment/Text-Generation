@@ -1,3 +1,113 @@
+**Week 16 - ** 2023/03/07
+Hey pc gang! Sorry for the delay, some unexpected delays happened again :sadge:
+**PBs :sparkles:**
+___Consecutive PBs___
+```
+1. mdragon6580  97 PC (Jstris)
+2. fortissim2   41 PC (Jstris)
+3. IQ1537       36 PC (Jstris)
+4. LukasDrakon  17 PC (Jstris)
+5. yhgjderp     16 PC (Jstris)
+6. cunk         15 PC (Jstris)
+7. Claramay     10 PC (Jstris)
+8. jboi598      10 PC (Jstris)
+```
+___10 PC sprint___
+```
+1. Ivan28283  30.952 (Jstris)
+```
+___Pure PC Ultra___
+```
+1. pepperoni  54075
+```
+___Pure PC blitz___
+```
+1. Zepheniah  699,543
+```
+___PPB Ultra___
+```
+1. smolfeesh       462.41 @ 140
+2. JimothyJimothy  461.64 @ 140
+3. Algebruh        461.32 @ 140
+4. N00BGamerXD     460.00 @ 140
+5. cringemoment    459.09 @ 140
+6. j_Ewan          447.10 @ 140
+```
+**Top PC players of the week** :man_running:
+```
+1. Holifyre            115 PC
+2. fesh                 67 PC
+3. 13pake               66 PC
+4. JohnSmithNumberSix   61 PC
+5. Fragmented           60 PC
+```
+**Top #pc-pics of the week** :eyes:
+This section is just for notes
+[pc-pic-collage-thanks-image-compositer.png]
+[MakeItHigher.png, then new post]
+
+**Top Chokes of the week** :sadge:
+Extremely good ppb run from N00BPlz ends in tragedy
+https://discord.com/channels/569728778985537585/569730957536395274/1079948421944856676
+Tragic missdrop robs pepperoni of their sub 50
+https://discord.com/channels/569728778985537585/1057240894862008360/1081759436198129735
+
+**Research** :test_tube:
+algebruh does a writeup on ILOT/IJOT
+https://discord.com/channels/569728778985537585/853373880579522590/1079968301976928307
+
+**Trivia** :nerd:
+This week’s trivia question:
+```SSZ 7th is often regarded as the worst 7th scenario possible, as it does not have a single viable high-chance setup and must utilize various queue-based setups
+```
+Post your answers in #trivia-answers
+
+**Joke** :laughing:
+This week’s joke:
+```Once upon a time, there was a band of rowdy animals, causing mischief in the villages. The evil sheriff finally caught up with their leader, a shifty fox called Steven, and tossed him in prison. Knowing his intentions, the group realized the only way to get Steven out is to break him out.
+
+In a group meeting, several ideas were tossed around, but they could poke holes in all of them. Bribes were impossible due to how tightly the sheriff monitored his employees, and sneaking something in was impossible.
+
+Suddenly, one wise owl from the back stepped up. "Why don't we get Mossycoat to break him out?". The crowd fell silent. They all knew the reputation of Mossycoat, the feared dragon, known to once take the 6,000 strong army of the king, and win. No matter how much they did not want to do it, they could not find a fault. After some discussion, they had no other choice but to ask him."
+
+"Who dares disturb the sleep of Mossycoat, the fearsome dragon, who for 1 day is 100 of your mortal years? The one who fought the entirety of the king's army and won?"
+The group cowered in fear. It had been a long trek, and they were not about to back out now, but they knew the reputation.
+
+One brave fox from the back spoke out. "I hope we're not bothering you, sir. But our leader is held in jail, and we come to you in the hopes of help to break him out."
+
+Mossycoat laughed. "What makes you think Mossycoat would help you? This dragon known to be very difficult to conquer, and no man has ever bent me to his will."
+
+The fox spoke up again. "But sir, I know your hate of the sheriff. If you don't help us, he will kill poor Steven, and then he will hunt us all down."
+
+The fearful dragon looked down at the brave fox. "Killing? That is unacceptable. You've made the right choice, little fox. ```
+||After all, although dragon might be difficult, I'm the best for no JL."||
+
+**PC Tip of the Week** :brain:
+> **PC Tip of the Week** :brain:
+“How do the pro players know what PC they will go into?”
+By counting pieces and knowing the bag composition of each PC by heart, one could do that easily. Say we are at 3rd PC, we know that the bag composition for 3rd PC is 1+7+3 (It’s 11 pieces because we can see an extra piece on 4p). At 4p, let's say that the pieces in queue are TLOSIL, It is clear that we can separate them into two parts: TSOZ and JIL, as they belong to different bags. Now how do one choose a save? Notice that if we saved T, S, O or Z, it will lead into a dupe 4th, and let’s not consider dupes for the time being. So the choice is now whether we save J, I or L. JIL is from the next bag, without placing any extra pieces, we definitely know that the next 4 pieces will be T, O, S and Z in random order. Thus notice that saving I will lead to no LJ 4th, while saving L or J will lead into a friendlier 4th.
+
+This is the method I used to determine what the next PC will be, others might have different methods. You might need to spend a lot of time figuring out how to do that, for that reason, here are some questions for y’all to practice! Try to make it a habit to figure out which PC you will be in while playing PC mode, it will not take you long before you can figure it out in seconds!
+
+Solving 5th PC, at 4p, queue: TLJOISL, saved S, what is the 6th? ||No L 6th||
+Solving 2nd PC, at 4p, queue: LOITSJZ, saved Z, what is the 3rd? ||Z 3rd||
+Solving 6th PC, at 4p, queue: OIJILOS, saved L, what is the 7th? ||TLZ 7th||
+Solving 1st PC, at 4p, queue: JTOOJST, saved J, what is the 2nd? ||ILJZ 2nd||
+
+**Postscript** :star:
+Hey PC Gang! I am Hosef, and I am the writer for the 16th issue of the PC Gang Newsletter. To be honest with you all, I have been doing more stuff related to ~~League of Legends, Chess and Jazz~~ my university applications, so I have been neglecting PC Gang for a while now. But, I will still pop up sometimes in #general to say hi or something.
+
+
+Does anyone here know a game called situation puzzles? Here’s the definition from Wikipedia:
+
+> Situation puzzles are usually played in a group, with one person hosting the puzzle and the others asking questions which can only be answered with a "yes" or "no" answer. Depending upon the settings and level of difficulty, other answers, hints or simple explanations of why the answer is yes or no, may be considered acceptable. The puzzle is solved when one of the players is able to recite the narrative the host had in mind, in particular explaining whatever aspect of the initial scenario was puzzling.
+>
+> These puzzles are inexact and many puzzle statements have more than one possible fitting answer. The goal however is to find out the story as the host has it in mind. Critical thinking and reading, logical thinking, as well as lateral thinking may all be required to solve a situation puzzle. The term lateral thinking was coined by Edward De Bono to denote a creative problem-solving style that involves looking at the given situation from unexpected angles, and is typically necessary to the solution of situation puzzles.
+
+I would love to play this game with y’all sometime so do ping me or DM me if you are interested in it and we can probably arrange a time to play together in the PC Gang VC :oyes:
+
+Also subscribe to @parfait135’s YouTube Channel! They have recently added English subtitles and I think they make high quality content so do check them out at https://www.youtube.com/@parfait_135. That is all for this week’s newsletter and I hope you all have a nice week forward~ Cya!
+
 Week 12:
 Writer: cringemoment
 
@@ -1242,6 +1352,7 @@ You know, PC is usually a pretty serious business, and isn’t funny.
 
 **Postscript**⭐
 Welcome to February, PC gang! I am very happy to see newsletter-material being used, making the newsletter easier than ever to write. Continue using it, and you will see your submissions in the newsletter!
+
 Holifyre — 02/13/2023 7:06 PM
 PC News #13 - 2023/02/13
 Happy early Valentine's everyone! Get ready for some looooong read...
@@ -1329,3 +1440,97 @@ From next week and on, the newsletter will be released at or before 23:59 UTC ev
 And as always, please post any noteworthy replays or posts of yours on newsletter-material if you want them to be featured here. It makes us writers' job a whole lot easier!
 
 Happy PC'ing! :oyes:
+
+Week 14: 2/13/2023 - 2/20/2023
+Writer: cringemoment
+**PC News #14** - *2023/2/20*
+
+**PBs** :sparkles:
+__Consecutive PCs__
+```
+1. Tiki2TGT     54 PC (Jstris)
+2. cringemoment 53 PC (Jstris)
+3. suwapete     46 PC (Jstris)
+4. Fivoka       35 PC (Jstris)
+5. Ivan28283    34 PC (Jstris)
+6. Ilovetofu    34 PC (Jstris)
+7. Algebruh     21 PC (Jstris)
+8. Deven222     18 PC (Jstris)
+```
+
+__10 PC Sprint__
+```
+1. Fragmented  29.529 (Jstris)
+```
+
+__Pure PC Ultra__
+```
+1. Holifyre        127,472 (Ultra)
+2. kvodeth         124,112 (Ultra)
+3. torchlight       83,753 (PC mode)
+4. thepikachugamer  64,747 (PC mode)
+```
+
+__PPB Ultra__
+```
+1. N00Bplz      445 @ 190
+2. Zepheniah    437 @ 185
+2. cringemoment 438 @ 175
+```
+
+
+**Top PC Players of the week** :man_running:
+```
+1. JstrisAllClear  140 PC
+2. Holifyre        115 PC
+3. 13pake          104 PC
+4. Fragmented       74 PC
+5. Tiki2TGT         54 PC
+
+```
+**Top #pc-pics of the week** :eyes:
+This section is just for notes
+[pc-pic-collage-thanks-hosef.png]
+[MakeItHigher.png, then new post]
+
+**Top Chokes of the week** :sadge:
+
+Algebruh misses an “easy” 5x4, choking a 25 pc run
+https://discord.com/channels/569728778985537585/569730957536395274/1075166543694004276
+
+N00Bpls zooms through ppb ultra and loses a 455 ppb ultra run
+https://discord.com/channels/569728778985537585/569730957536395274/1075681156424536094
+
+
+**PC Research** :test_tube:
+
+John Beak writes a full doc about Sussy S-Spin 6L ඞ
+https://discord.com/channels/569728778985537585/853373880579522590/1076629214842863646
+
+
+**Trivia** :nerd:
+
+This week’s trivia question:
+```On no LZ 4th, Jeremy (JS) + IO setup has a PC success rate of 99.98%, which means that the setup has only ONE fail queue (sequence of 7 pieces) out of 5040 possible combinations. What sequence is the fail queue?```
+Post your answers in #trivia-answers
+
+**PC Tip** 🧠
+*Credit to @Holifyre*
+
+When transitioning from 4th to 5th, start from 4p setup and notice what piece you'll be saving in order to create the most optimal 5th for yourself. 4th PC has a 5+5 structure, which means that after placing 4 of 5 pieces on the field, the leftover piece will be in hold and 6 pieces from the next bag will be displayed. By process of elimination, the one piece not shown in that 6 will be one of the pieces in 5th, and the piece you're "saving" (aka not using) in the 4th PC will be accompanying it in 5th.
+
+_____
+
+
+**Joke of the week** :laughing:
+This week’s joke:
+```There was once a buddhist monk, trying to achieve enlightenment. He went off in search of it. He tried everything, from meditating to charity. One night, he had no place to sleep, so he went to a nearby city. . He knocked on all the doors in the neighborhood, and nobody would take him in, until the last person on the street took pity and let him sleep on the couch.
+
+In the middle of the night, the monk was woken up by something sounding like keys on a keyboard. Seeing a room with the light turned on, he opened the door, and saw the guy playing Tetris.
+
+"How are you pressing the keys so fast? This is such amazing skill. Could you show me how?" the monk asked. The guy opened up tetrio for him, and let him fiddle around. The monk, being a dedicated scholar, learned quickly. He played some blitz, and put up some good scores. However, he decided to practice. He was messing around with the pieces, and out of nowhere had cleared the entire board. Suddenly, he felt this surge of knowledge and wisdom fill him. He had achieved enlightment, finally.
+```
+||For when he entered zen mode, everything was all clear.||
+
+**Postscript** :star:
+Hey PC gang! It’s the 2 loop edition of the newsletter, and in honor of that we are adding a new segment, PC Tips, coming straight from the wr holder themself, Holifyre!  Keep using #newsletter-material, and keep starring #pc-pics, and maybe I can get the newsletter out on time for once.
